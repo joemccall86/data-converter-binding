@@ -1,6 +1,6 @@
 package data.converter.binding
 
-import grails.test.mixin.integration.Integration
+import grails.testing.mixin.integration.Integration
 import grails.transaction.Rollback
 import io.micronaut.http.HttpRequest
 import io.micronaut.http.HttpStatus
